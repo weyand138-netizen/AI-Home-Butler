@@ -40,6 +40,27 @@
 - 女友形式争议：这种类人的设计可能引发伦理问题的争议，我设计了健康提醒“AI设定中明确自己的身份是AI”
 -AI对智能家居的控制权限造成的安全隐患：在AI设定中加入安全协议，在用户使用设定的安全词后强行执行指令
 
+## Demo
+![聊天界面](images/chat-demo.png)
+![AllTalk代码界面](images/AllTalk-demo.png)
+![HA联动面板](images/ha-panel.png)
+
+Star History
+![Star History Chart](https://api.star-history.com/svg?repos=weyand138-netizen/AI-Home-Butler&type=Date)
+
+#  贡献
+-欢迎各位在此想法上自由创作或者与我讨论想法
+Email: weyand138@gmail.com
+
+#许可证MIT License —— 随便用、随便改、随便商用
+
+#本项目引用的开源项目:
+Ollama:https://ollama.com/
+Silly Tavern:https://github.com/SillyTavern/SillyTavern
+Home Assistant:https://www.home-assistant.io/
+OpenWebUI:https://github.com/open-webui/open-webui
+AllTalk TTS:https://github.com/AllTalkTTS/AllTalkTTS
+
 ##  快速启动
 
 ```bash
@@ -61,23 +82,3 @@ docker compose up -d
 4.测试连接成功即可
 
 
-## Demo
-![聊天界面](images/chat-demo.png)
-![AllTalk代码界面](images/AllTalk-demo.png)
-![HA联动面板](images/ha-panel.png)
-
-Star History
-![Star History Chart](https://api.star-history.com/svg?repos=weyand138-netizen/AI-Home-Butler&type=Date)
-
-#  贡献
--欢迎各位在此想法上自由创作或者与我讨论想法
-Email: weyand138@gmail.com
-
-#许可证MIT License —— 随便用、随便改、随便商用
-
-#本项目引用的开源项目:
-Ollama:https://ollama.com/
-Silly Tavern:https://github.com/SillyTavern/SillyTavern
-Home Assistant:https://www.home-assistant.io/
-OpenWebUI:https://github.com/open-webui/open-webui
-AllTalk TTS:https://github.com/AllTalkTTS/AllTalkTTS
