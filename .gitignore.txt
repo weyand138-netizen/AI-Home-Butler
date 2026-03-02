@@ -1,0 +1,19 @@
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# 大模型文件（千万别上传！几百MB）
+*.gguf
+*.safetensors
+models/
+
+# 日志和临时文件
+*.log
+docker/volumes/
+
+# 系统垃圾
+.DS_Store
+Thumbs.db

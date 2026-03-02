@@ -1,0 +1,16 @@
+# 如何贡献 ❤️
+
+欢迎来到 AI-Home-Butler！
+
+### 贡献方式
+1. Fork 本仓库
+2. 新建分支 `feature/你的功能名`（比如 `feature/live2d`）
+3. 提交改动并 Push
+4. 发起 Pull Request
+
+### 开发环境要求
+- Ubuntu 22.04/24.04（虚拟机或NAS）
+- NVIDIA显卡（推荐8GB+ VRAM）
+- Docker（可选）
+
+感谢你让我们的AI管家越来越像真正的家人！
