@@ -41,7 +41,6 @@
 -AI对智能家居的控制权限造成的安全隐患：在AI设定中加入安全协议，在用户使用设定的安全词后强行执行指令
 
 ## Demo
-![聊天界面](images/chat-demo.png)
 ![AllTalk代码界面](images/AllTalk-demo.png)
 ![HA联动面板](images/ha-panel.png)
 
